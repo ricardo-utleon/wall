@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 5,
+    "left": 0,
+    "width": 1792,
+    "height": 2389,
+    "isRotated": false,
+    "originalWidth": 1792,
+    "originalHeight": 2400
+  },
+  "imagePath": "image-targets/RlkbwmnCqUPtao2zqIGM1_luminance.png",
+  "metadata": null,
+  "name": "RlkbwmnCqUPtao2zqIGM1",
+  "resources": {
+    "originalImage": "RlkbwmnCqUPtao2zqIGM1_original.png",
+    "croppedImage": "RlkbwmnCqUPtao2zqIGM1_cropped.png",
+    "thumbnailImage": "RlkbwmnCqUPtao2zqIGM1_thumbnail.png",
+    "luminanceImage": "RlkbwmnCqUPtao2zqIGM1_luminance.png"
+  },
+  "created": 1792437387379,
+  "updated": 1792437387379
+}

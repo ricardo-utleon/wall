@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 5,
+    "left": 0,
+    "width": 1792,
+    "height": 2389,
+    "isRotated": false,
+    "originalWidth": 1792,
+    "originalHeight": 2400
+  },
+  "imagePath": "image-targets/montana_luminance.png",
+  "metadata": null,
+  "name": "montana",
+  "resources": {
+    "originalImage": "montana_original.png",
+    "croppedImage": "montana_cropped.png",
+    "thumbnailImage": "montana_thumbnail.png",
+    "luminanceImage": "montana_luminance.png"
+  },
+  "created": 1792438026394,
+  "updated": 1792438026394
+}
